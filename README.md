@@ -27,9 +27,7 @@ This project is a Weather Monitoring System that tracks weather data for differe
 ## Setup Instructions
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/weather-monitoring.git
-   cd weather-monitoring
+
 2. **Backend Setup**
 
    Install the necessary backend dependencies:
