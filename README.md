@@ -1,4 +1,5 @@
 # Weather Monitoring System
+https://github.com/user-attachments/assets/657f4e3a-0f36-4523-a202-01fb9cdcc8e8
 
 This project is a Weather Monitoring System that tracks weather data for different cities, allowing users to set temperature thresholds and receive alerts if the threshold is exceeded for two consecutive API calls (10 minutes apart).
 
